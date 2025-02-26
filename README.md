@@ -1,6 +1,6 @@
 
 # CoconutCode  
-Welcome to **CoconutCode**, a digital grove rooted in my Bachelor’s in Software Engineering at the University of the South Pacific. This repository stands as my virtual copra shed—a place where I cultivate, store, and share the code I write and the programs I build. Inspired by the resilience of the coconut tree, it’s a blend of Pacific ingenuity and technical craftsmanship, offering a glimpse into my journey as a software creator.
+"Welcome to CoconutCode, my dedicated platform for sharing programming endeavors. Here, I showcase my work, primarily crafted in C++, Java, HTML, and CSS. This space serves as a repository for projects that span both functional applications and creative explorations. I invite you to explore, learn, or draw inspiration from the code I’ve shared. Thank you for visiting, and I look forward to presenting these programming efforts to you."
 
 ## About CoconutCode  
 **CoconutCode** is more than a collection—it’s a workshop where I transform ideas into functional programs. As a USP student, I use this space to archive my academic code, experiment with new solutions, and develop software that reflects both rigor and creativity. From sturdy algorithms to budding applications, every commit here is a step toward mastering software engineering under the South Pacific sky.
