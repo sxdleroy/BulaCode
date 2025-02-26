@@ -1,42 +1,38 @@
 
-# BulaCode  
-**Bula vinaka!** Welcome to **BulaCode**—my slice of the digital Pacific where I dock the code crafted during my Bachelor’s in Software Engineering at the University of the South Pacific. This repo is my island of innovation, packed with projects, scripts, and solutions born from tropical nights and USP’s tech tides. It’s not just code—it’s a "hello" from Fiji to the world of software!
+# CoconutCode  
+Welcome to **CoconutCode**, a digital grove rooted in my Bachelor’s in Software Engineering at the University of the South Pacific. This repository stands as my virtual copra shed—a place where I cultivate, store, and share the code I write and the programs I build. Inspired by the resilience of the coconut tree, it’s a blend of Pacific ingenuity and technical craftsmanship, offering a glimpse into my journey as a software creator.
 
-## About BulaCode  
-**BulaCode** is where I log my voyage as a budding software engineer. From the sandy shores of Suva to the virtual stacks of GitHub, this repo holds my coursework treasures—think algorithms swaying like palm trees, data structures as sturdy as coral reefs, and bugs squashed under the South Pacific sun. It’s my proof that paradise and programming can coexist.
+## About CoconutCode  
+**CoconutCode** is more than a collection—it’s a workshop where I transform ideas into functional programs. As a USP student, I use this space to archive my academic code, experiment with new solutions, and develop software that reflects both rigor and creativity. From sturdy algorithms to budding applications, every commit here is a step toward mastering software engineering under the South Pacific sky.
 
-## What’s in the Lagoon?  
-- **Projects & Assignments**: Software engineering gems from USP’s curriculum.  
-- **Languages**: A cocktail of Python, Java, C++, or whatever the tide brings in.  
-- **Vibes**: Organized by course, semester, or the chaos of inspiration—dive in and explore!  
+## What You’ll Find  
+- **Code Harvest**: Assignments, snippets, and utilities from my USP coursework.  
+- **Program Sprouts**: Original applications and tools I’ve engineered.  
+- **Tech Terrain**: Primarily Python, Java, and C++, with room for growth.  
+- **Structure**: Organized by purpose—coursework, personal projects, or spontaneous creations.
 
-### Highlights  
-- **Island Algorithms**: Sorting and searching, Pacific-style.  
-- **Code Canoes**: Small scripts that paddle through big problems.  
-- **Engi-Nerd Logs**: Experiments that worked (and some that sank).  
-
-## How to Navigate  
-Clone this repo and paddle through:  
+## Getting Started  
+Explore the grove by cloning the repo:  
 ```bash  
-git clone https://github.com/[YourUsername]/BulaCode.git  
-cd BulaCode  
+git clone https://github.com/[YourUsername]/CoconutCode.git  
+cd CoconutCode  
 ```  
-Some projects might need a specific setup—check comments or mini-READMEs if I left a map. Otherwise, bring Python 3.x, a compiler, and a splash of curiosity.
+Dependencies vary by project—expect notes in comments or sub-READMEs where needed. A modern compiler and enthusiasm are your keys to entry.
 
-## Why This Exists  
-- To chart my growth from code rookie to software skipper.  
-- To share the USP coding spirit with fellow explorers (or future me when I forget my own logic).  
-- To make my island ancestors proud—one commit at a time.  
+## Purpose  
+- To **preserve** my coding milestones and lessons learned.  
+- To **create** programs that solve problems, big and small.  
+- To **invite** curiosity from peers, mentors, and future collaborators.  
 
 ## Contributions  
-This is my personal reef, so no pull requests for now. Got ideas or want to talk shop? Drop a line via [GitHub Issues](https://github.com/[YourUsername]/BulaCode/issues) or catch me on the digital breeze.
+At present, **CoconutCode** is my personal orchard, so contributions are closed. However, I welcome insights or suggestions—please share them via [GitHub Issues](https://github.com/[YourUsername]/CoconutCode/issues).
 
-## Bula Bonus  
-Those green squares on my graph? Powered by kava-fueled focus and the rhythm of the lali drum. Watch them bloom as I sail through semesters!
+## A Pacific Note  
+The green squares on my GitHub profile mark the rhythm of my progress—each one a coconut dropped into this digital harvest. Watch them grow as I code my way through USP and beyond.
 
 ## License  
-Free to browse and learn from, but if you’re submitting this to USP, I’ve already claimed the mataqali bragging rights. No formal license—just Pacific honor for now.
+This work is shared for educational inspiration. Reuse ideas freely, but original authorship remains with me—no formal license yet, just a nod to academic integrity.
 
 ---
 
-*Crafted with salt, sweat, and software by [Your Name], live from the South Pacific.* 
+*Planted and tended by Leroy Hing* 
